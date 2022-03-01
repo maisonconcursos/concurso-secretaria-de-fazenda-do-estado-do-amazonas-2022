@@ -34,3 +34,15 @@
 - [ ] 10 Tecnologias backend.
   - [ ] 10.1 Frameworks: Hibernate, SpringBoot, Django, NodeJS, Express e NestJS. 
   - [ ] 10.2 Especificações: JEE (JPA, EJB, JSF, JMS e JTA), JVM.
+
+## REDE DE COMPUTADORES
+- [ ] 1 Técnicas básicas de comunicação de dados.
+- [ ] 2 Técnicas de comutação de circuitos, pacotes e células.
+- [ ] 3Topologias de redes de computadores.
+- [ ] 4 Arquitetura e protocolos de redes de comunicação de dados.
+- [ ] 5 Endereçamento e protocolos da família TCP/IP. 
+- [ ] 6 Modelo OSI. 
+- [ ] 7 Arquitetura cliente/servidor. 
+- [ ] 8 Tecnologias de rede local: ethernet, fast ethernet, gigabit ethernet. 
+- [ ] 9 Redes sem fio: padrões 802.11, protocolos 802.1x,EAP, WEP, WPA, WPA2. 
+- [ ] 10 Servidores de rede Linux e Windows.
