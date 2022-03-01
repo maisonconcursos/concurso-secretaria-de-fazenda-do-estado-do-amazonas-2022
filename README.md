@@ -29,8 +29,8 @@
   - [ ] 7.3 Teste de integração. 
   - [ ] 7.4 Teste de carga/estresse). 
 - [ ] 8 Qualidade de código: SonarQube, Robot Framework e JMeter. 
-  - [ ] 9 Tecnologias e práticas frontend web: HTML, CSS, UX, Ajax, frameworks (Bootstrape JQuery,). - - [ ] 9.1 Padrões de frontend. 
-    - [ ] 9.1.1 SPA e PWA. 
+- [ ] 9 Tecnologias e práticas frontend web: HTML, CSS, UX, Ajax, frameworks (Bootstrape JQuery,).      - [ ] 9.1 Padrões de frontend. 
+      - [ ] 9.1.1 SPA e PWA. 
 - [ ] 10 Tecnologias backend.
   - [ ] 10.1 Frameworks: Hibernate, SpringBoot, Django, NodeJS, Express e NestJS. 
   - [ ] 10.2 Especificações: JEE (JPA, EJB, JSF, JMS e JTA), JVM.
@@ -38,7 +38,7 @@
 ## REDE DE COMPUTADORES
 - [ ] 1 Técnicas básicas de comunicação de dados.
 - [ ] 2 Técnicas de comutação de circuitos, pacotes e células.
-- [ ] 3Topologias de redes de computadores.
+- [ ] 3 Topologias de redes de computadores.
 - [ ] 4 Arquitetura e protocolos de redes de comunicação de dados.
 - [ ] 5 Endereçamento e protocolos da família TCP/IP. 
 - [ ] 6 Modelo OSI. 
