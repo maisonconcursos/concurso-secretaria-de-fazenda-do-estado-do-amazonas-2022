@@ -44,26 +44,26 @@ ___
   - [ ] 3.2 Padrões GRASP. 
 - [ ] 4 Ambientes Internet, extranet, intranet e portal: finalidades, características físicas e lógicas, aplicações e serviços. 
 - [ ] 5 Padrões XML, XSLT, UDDI, WSDL, SOAP, REST e JSON.
-- [ ] 7 Testes de software. 
-  - [ ] 7.1 Tipos de testes. 
-  - [ ] 7.2 Teste unitário. 
-  - [ ] 7.3 Teste de integração. 
-  - [ ] 7.4 Teste de carga/estresse. 
-- [ ] 8 Qualidade de código: SonarQube, Robot Framework e JMeter. 
-- [ ] 9 Tecnologias e práticas frontend web: HTML, CSS, UX, Ajax, frameworks (Bootstrape JQuery,).      
-  - [ ] 9.1 Padrões de frontend. 
-      - [ ] 9.1.1 SPA e PWA. 
-- [ ] 10 Tecnologias backend.
-  - [ ] 10.1 Frameworks:
-    - [ ] 10.1.1 Hibernate
-    - [ ] 10.1.2 SpringBoot
-    - [ ] 10.1.3 Django
-    - [ ] 10.1.4 NodeJS
-    - [ ] 10.1..5 Express
-    - [ ] 10.1.6 NestJS. 
-  - [ ] 10.2 Especificações:
-    - [ ] 10.2.1 JEE (JPA, EJB, JSF, JMS e JTA)
-    - [ ] 10.2.2 JVM.
+- [ ] 6 Testes de software. 
+  - [ ] 6.1 Tipos de testes. 
+  - [ ] 6.2 Teste unitário. 
+  - [ ] 6.3 Teste de integração. 
+  - [ ] 6.4 Teste de carga/estresse. 
+- [ ] 7 Qualidade de código: SonarQube, Robot Framework e JMeter. 
+- [ ] 8 Tecnologias e práticas frontend web: HTML, CSS, UX, Ajax, frameworks (Bootstrape JQuery,).      
+  - [ ] 8.1 Padrões de frontend. 
+      - [ ] 8.1.1 SPA e PWA. 
+- [ ] 9 Tecnologias backend.
+  - [ ] 9.1 Frameworks:
+    - [ ] 9.1.1 Hibernate
+    - [ ] 9.1.2 SpringBoot
+    - [ ] 9.1.3 Django
+    - [ ] 9.1.4 NodeJS
+    - [ ] 9.1..5 Express
+    - [ ] 9.1.6 NestJS. 
+  - [ ] 9.2 Especificações:
+    - [ ] 9.2.1 JEE (JPA, EJB, JSF, JMS e JTA)
+    - [ ] 9.2.2 JVM.
 
 ## REDE DE COMPUTADORES
 - [ ] 1 Técnicas básicas de comunicação de dados.
