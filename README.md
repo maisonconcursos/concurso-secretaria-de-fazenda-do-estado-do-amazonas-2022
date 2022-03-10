@@ -1,15 +1,18 @@
 # Concurso Público para a Secretaria de Estado da Fazenda do Amazonas - SEFAZ-AM - 2022
+## FGV - 210 Vagas + Cadastro de reserva
+### Cargos de nível médio: 50
+### Cargos de nível superior: 160
+---
 
 ## Cargo: Analista de Tecnologia da Informação da Fazenda Estadual.
-
+### Vagas: 12.
 ### Remuneração: 18.866,37
-
-#### Vagas: 12.
-
-##### Inscrição: 14/02/2022 à 14/03/2022
+#### Banca: FGV
+#### Inscrição: 14/02/2022 à 14/03/2022
+##### O candidato poderá se inscrever para mais de uma função, desde que o dia e horário das provas não coincidam.
 ___
-
-##### Prova dia 08 de maio de 2022.
+##### Prova escrita objetiva - Todas as questões terão 5(cinco) alternativas.
+Data: 08 de maio de 2022.
 ---
 
 ## Arquitetura de desenvolvimento de software
