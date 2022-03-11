@@ -85,3 +85,22 @@ Data: 08 de maio de 2022.
 - [ ] 8 Tecnologias de rede local: ethernet, fast ethernet, gigabit ethernet. 
 - [ ] 9 Redes sem fio: padrões 802.11, protocolos 802.1x,EAP, WEP, WPA, WPA2. 
 - [ ] 10 Servidores de rede Linux e Windows.
+
+
+![image](https://user-images.githubusercontent.com/100721117/157915824-654403a6-912d-4b95-a01d-3c71e1ac16c8.png)
+---
+![image](https://user-images.githubusercontent.com/100721117/157915906-6cc2da8c-d678-4df2-818b-164d53cf52a8.png)
+---
+![image](https://user-images.githubusercontent.com/100721117/157916137-c74d7db8-f097-40cf-9f72-8dc617e13fc1.png)
+---
+![image](https://user-images.githubusercontent.com/100721117/157916316-4964d8ef-0aa9-445a-9376-a40de17531a8.png)
+---
+![image](https://user-images.githubusercontent.com/100721117/157916388-ab187667-9cff-4edb-b2b6-4797510b2540.png)
+---
+![image](https://user-images.githubusercontent.com/100721117/157916430-bf158418-36d0-4de1-850d-eab6536e5983.png)
+
+
+
+
+
+
