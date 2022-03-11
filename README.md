@@ -99,6 +99,10 @@ Data: 08 de maio de 2022.
 ---
 ![image](https://user-images.githubusercontent.com/100721117/157916430-bf158418-36d0-4de1-850d-eab6536e5983.png)
 
+###### Atribuições
+![image](https://user-images.githubusercontent.com/100721117/157916917-d7b6e6e3-020f-42f0-a036-323ccd762528.png)
+
+
 
 
 
