@@ -1,5 +1,6 @@
-# Concurso Público para a Secretaria de Estado da Fazenda do Amazonas - SEFAZ-AM - 2022
+# Concurso Público Secretaria de Estado da Fazenda do Amazonas - SEFAZ-AM - 2022
 ## FGV - 210 Vagas + Cadastro de reserva
+---
 ### Cargos de nível médio: 50
 ### Cargos de nível superior: 160
 ---
