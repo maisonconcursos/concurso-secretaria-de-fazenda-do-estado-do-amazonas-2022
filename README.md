@@ -13,6 +13,7 @@
 ##### O candidato poderá se inscrever para mais de uma função, desde que o dia e horário das provas não coincidam.
 ___
 ##### Prova escrita objetiva - Todas as questões terão 5(cinco) alternativas.
+🖊️caneta esferográfica de (tinta azul) ou preta em material transparente.
 Data: 08 de maio de 2022.
 ---
 
