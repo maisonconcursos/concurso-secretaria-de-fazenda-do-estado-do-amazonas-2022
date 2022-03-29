@@ -1,11 +1,12 @@
 # Concurso Público Secretaria de Estado da Fazenda do Amazonas - SEFAZ-AM - 2022
+## [Cargo: Analista de Tecnologia da Informação da Fazenda Estadual.](https://conhecimento.fgv.br/concursos/sefazam22)
 ## FGV - 210 Vagas + Cadastro de reserva
 ---
 ### Cargos de nível médio: 50
 ### Cargos de nível superior: 160
 ---
 
-## Cargo: Analista de Tecnologia da Informação da Fazenda Estadual.
+
 ### Vagas: 12.
 ### Remuneração: 18.866,37
 #### Banca: FGV
